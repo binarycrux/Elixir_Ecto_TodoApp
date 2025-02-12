@@ -7,7 +7,7 @@ Configuration:
 Before running the app, ensure that you update the /config/config.exs file with your PostgreSQL login credentials.
 
 Requirements:
-Elixir/Erlang installed
+Elixir/Erlang installed,
 PostgreSQL installed
 
 How to Run the App:
